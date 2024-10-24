@@ -1,0 +1,19 @@
+<!-- function App(){
+    return(
+        <div style={{display:'flex'}}>
+        </Flex>
+        </div>
+    )
+}
+function Flex(){
+    return(
+        <div>
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+        </div>
+        )
+} -->
+
+
+to reduce the styling issues, preventing the creation of unnecessary extra div

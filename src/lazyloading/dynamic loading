@@ -1,0 +1,12 @@
+it is used to increase the performance
+
+in routing, const Home = React.lazy(()=>import(''))
+
+when we perform lazy loading in routing, 
+then it will not shown error bt when it comes to compoents wrap the component in <suspense fallback={<div>loading..</div>}></suspense> 
+
+webpack , home-login-regidter(chunk.js)
+
+lazy loading - separate chunk.js
+
+does not unnecessary loading.......

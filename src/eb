@@ -1,0 +1,17 @@
+/*error boundary we are facing multiple errors in  react .to handle thos errors and display fallback ui
+
+fallback ui - when we get the error, we diaply the msg like 500 internal error , page not found , oops somethig went wromg
+
+try catch - imperative coding
+
+
+it is a custom component not react inbuilt
+<errorboundary>
+</errorboundary>
+
+erroroundaries do not catch errors for evnt handlers , async code, server side rendering , 
+
+error boundary - declarative coding
+
+
+*/
